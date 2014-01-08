@@ -1,4 +1,4 @@
--XHScreenCapture
+XHScreenCapture
 ================
 
 English：
