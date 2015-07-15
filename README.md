@@ -73,11 +73,7 @@ screenCapture = [[XHScreenCapture alloc] init];
 Please click to all open source code: https://github.com/JackTeam/XHScreenCaptureSDKSimple
 
 
-## 开源模式
-1、这里已经是SDK模式了     
-2、只要关注该组件的用户数量达到500个以上，将以开源所有代码的模式。    
-
-请移步到开源所有代码：https://github.com/JackTeam/XHScreenCaptureSDKSimple   
+请移步到试玩地址：https://github.com/JackTeam/XHScreenCaptureSDKSimple   
 
 
 ## License
